@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "react-router-dom": "latest",
+    "react-dom": "latest",
+    "react": "latest",
+    "antd": "latest"
+  }
+}
